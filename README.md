@@ -45,6 +45,7 @@ HTML + CSS ile gömülü web arayüzü tasarlamayı
 öğrenebilirsiniz.
 
 🧑‍💻 Geliştiren Öğrenciler
+
 Mehmet Torun
 
 Mustafa Selman Uğuz
