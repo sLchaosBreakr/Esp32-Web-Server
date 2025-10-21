@@ -41,9 +41,7 @@ Sayfada aşağıdaki bilgileri göreceksiniz:
 
 IP adresi bilgisi
 
-Katılımcı listesi (HTML <ul> etiketiyle biçimlendirilmiş)
-
-Alt kısımda proje yılı ve açıklama
+Katılımcı listesi 
 
 🧠 Öğrenilenler
 
