@@ -44,6 +44,8 @@ Basit bir HTTP sunucu kurmayı
 HTML + CSS ile gömülü web arayüzü tasarlamayı
 öğrenebilirsiniz.
 
+Bu proje Doktor Öğretim Üyesi Hasan Serdar Hocamızın  Kablosuz Ağlar Dersi Ödevi İçin Hazırlanmıştır
+
 🧑‍💻 Geliştiren Öğrenciler
 
 Mehmet Torun
@@ -54,7 +56,7 @@ Nurullah Başar
 
 Muhammet Emin Kapucu
 
-Amine Zehra İlkay
+Amine Zehra Bilkaya
 
 Ali Damlapınar
 
